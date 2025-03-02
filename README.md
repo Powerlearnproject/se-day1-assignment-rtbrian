@@ -83,7 +83,6 @@ Importance in Interacting with AI Models is that it improved relevance, efficien
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt; "Tell me about trees."
 Improved prompt; "Provide a concise explanation of the ecological role of deciduous trees in temperate forests, focusing on their contribution to nutrient cycling and habitat support."
-
 The reason the improved prompt is more effective is that there is specificity and conciseness.
 
 
